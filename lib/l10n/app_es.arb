@@ -1,0 +1,73 @@
+{
+  "@@locale": "es",
+  "appTitle": "Chef App",
+  "login": "Iniciar sesión",
+  "register": "Registrarse",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "confirmPassword": "Confirmar contraseña",
+  "loginButton": "Iniciar sesión",
+  "registerButton": "Registrarse",
+  "dontHaveAccount": "¿No tienes una cuenta?",
+  "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+  "discoverChefs": "Descubrir Chefs",
+  "search": "Buscar",
+  "logout": "Cerrar sesión",
+  "notLoggedIn": "No has iniciado sesión",
+  "loading": "Cargando...",
+  "errorLoadingProfile": "Error al cargar el perfil: {error}",
+  "authenticationError": "Error de autenticación: {error}",
+  "noChefsFound": "No se encontraron chefs. ¡Vuelve más tarde!",
+  "errorLoadingChefs": "Error al cargar chefs: {error}",
+  "home": "Inicio",
+  "following": "Siguiendo",
+  "loyalty": "Lealtad",
+  "profile": "Perfil",
+  "followers": "{count} seguidores",
+  "@followers": {
+    "description": "Visualización del recuento de seguidores",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "follow": "Seguir",
+  "unfollow": "Dejar de seguir",
+  "viewProfile": "Ver perfil",
+  "vendorProfile": "Perfil del vendedor",
+  "edit": "Editar",
+  "businessName": "Nombre del negocio",
+  "description": "Descripción",
+  "sharableLink": "Enlace para compartir",
+  "copy": "Copiar",
+  "products": "Productos",
+  "productsWillBeDisplayedHere": "Los productos se mostrarán aquí",
+  "followingTitle": "Siguiendo",
+  "notFollowingAnyChefs": "Aún no sigues a ningún chef.",
+  "errorLoadingFollowedChefs": "Error al cargar los chefs seguidos: {error}",
+  "loyaltyTitle": "Lealtad y Recompensas",
+  "noLoyaltyPoints": "Aún no has ganado puntos de lealtad.",
+  "errorLoadingLoyalty": "Error al cargar los datos de lealtad: {error}",
+  "promotionsTitle": "Promociones",
+  "noPromotionsAvailable": "No hay promociones disponibles de los chefs que sigues.",
+  "errorLoadingPromotions": "Error al cargar promociones: {error}",
+  "validDateRange": "Válido: {startDate} - {endDate}",
+  "@validDateRange": {
+    "description": "Rango de fechas para promociones",
+    "placeholders": {
+      "startDate": {
+        "type": "String"
+      },
+      "endDate": {
+        "type": "String"
+      }
+    }
+  },
+  "viewChef": "Ver Chef",
+  "language": "Idioma",
+  "pleaseEnterEmail": "Por favor, introduce tu correo electrónico",
+  "pleaseEnterValidEmail": "Por favor, introduce un correo electrónico válido",
+  "pleaseEnterPassword": "Por favor, introduce tu contraseña",
+  "passwordTooShort": "La contraseña debe tener al menos 6 caracteres"
+}

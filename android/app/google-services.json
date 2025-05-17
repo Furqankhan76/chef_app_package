@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576853380936",
+    "project_id": "chefapp-3f03e",
+    "storage_bucket": "chefapp-3f03e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576853380936:android:b5203823c8e32a3a48ed7d",
+        "android_client_info": {
+          "package_name": "com.chefpilot.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0siuSc33Ocs3A5ex6INUbQRAG8L8djQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576853380936:android:069b19ccb760a9b848ed7d",
+        "android_client_info": {
+          "package_name": "com.example.chef_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0siuSc33Ocs3A5ex6INUbQRAG8L8djQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

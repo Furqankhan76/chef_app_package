@@ -1,0 +1,73 @@
+{
+  "@@locale": "en",
+  "appTitle": "Chef App",
+  "login": "Login",
+  "register": "Register",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "loginButton": "Login",
+  "registerButton": "Register",
+  "dontHaveAccount": "Don't have an account?",
+  "alreadyHaveAccount": "Already have an account?",
+  "discoverChefs": "Discover Chefs",
+  "search": "Search",
+  "logout": "Logout",
+  "notLoggedIn": "Not logged in",
+  "loading": "Loading...",
+  "errorLoadingProfile": "Error loading profile: {error}",
+  "authenticationError": "Authentication error: {error}",
+  "noChefsFound": "No chefs found. Check back later!",
+  "errorLoadingChefs": "Error loading chefs: {error}",
+  "home": "Home",
+  "following": "Following",
+  "loyalty": "Loyalty",
+  "profile": "Profile",
+  "followers": "{count} followers",
+  "@followers": {
+    "description": "Follower count display",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "follow": "Follow",
+  "unfollow": "Unfollow",
+  "viewProfile": "View Profile",
+  "vendorProfile": "Vendor Profile",
+  "edit": "Edit",
+  "businessName": "Business Name",
+  "description": "Description",
+  "sharableLink": "Sharable Link",
+  "copy": "Copy",
+  "products": "Products",
+  "productsWillBeDisplayedHere": "Products will be displayed here",
+  "followingTitle": "Following",
+  "notFollowingAnyChefs": "You are not following any chefs yet.",
+  "errorLoadingFollowedChefs": "Error loading followed chefs: {error}",
+  "loyaltyTitle": "Loyalty & Rewards",
+  "noLoyaltyPoints": "No loyalty points earned yet.",
+  "errorLoadingLoyalty": "Error loading loyalty data: {error}",
+  "promotionsTitle": "Promotions",
+  "noPromotionsAvailable": "No promotions available from your followed chefs.",
+  "errorLoadingPromotions": "Error loading promotions: {error}",
+  "validDateRange": "Valid: {startDate} - {endDate}",
+  "@validDateRange": {
+    "description": "Date range for promotions",
+    "placeholders": {
+      "startDate": {
+        "type": "String"
+      },
+      "endDate": {
+        "type": "String"
+      }
+    }
+  },
+  "viewChef": "View Chef",
+  "language": "Language",
+  "pleaseEnterEmail": "Please enter your email",
+  "pleaseEnterValidEmail": "Please enter a valid email",
+  "pleaseEnterPassword": "Please enter your password",
+  "passwordTooShort": "Password must be at least 6 characters"
+}

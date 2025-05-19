@@ -19,7 +19,7 @@ void main() async {
   Stripe.publishableKey = 'pk_test_YOUR_PUBLISHABLE_KEY'; // Use test key for development
   // Optionally configure merchant identifier for Apple Pay
   // Stripe.merchantIdentifier = 'merchant.com.your_app_name';
-  await Stripe.instance.applySettings();
+  // await Stripe.instance.applySettings();
 
   // Create ProviderContainer to initialize services before runApp
   final container = ProviderContainer();
